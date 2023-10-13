@@ -13,19 +13,28 @@
         android:theme="@style/Theme.ProjectMacro8"
         tools:targetApi="31">
         <activity
+            android:name=".PendaftaranBerhasilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VerifikasiActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DaftarKerjaActivity"
+            android:exported="false" />
+        <activity
             android:name=".JobActivty"
             android:exported="false" />
         <activity
             android:name=".DetailKerjaActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity2"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".VerifikasiActivity1"
+            android:name=".LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

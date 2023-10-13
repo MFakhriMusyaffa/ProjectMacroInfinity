@@ -1,5 +1,14 @@
 <resources>
-    <string name="app_name">projectMacro8</string>
+    <string name="app_name">Safe</string>
+    <string name="login">Masuk</string>
+    <string name="email">Email</string>
+    <string name="daftar">Daftar</string>
+    <string name="katasandi">Kata Sandi</string>
+    <string name="teksbawah">Atau masuk dengan</string>
+    <string name="teksbawah2">Belum punya akun ?</string>
+    <string name="hintemail">Masukan email</string>
+    <string name="hintsandi">Masukan kata sandi</string>
+
     <string name="lewati">Lewati</string>
     <string name="katapendukung1">Apakah anda kesulitan dalam\n mencari pekerjaan saat ini?</string>
     <string name="ya">Ya</string>
@@ -33,5 +42,5 @@
     <string name="jdl_kota1">Kota Penempatan :</string>
     <string name="kota_kerja1">Jakarta Selatan</string>
     <string name="jdl_perusahaan">Tentang Perusahaan</string>
-    <string name="tentang_perusahaan">PT Sejahtera Aman adalah sebuah perusahaan yang sudah \nberdiri pada tahun 2016 dan menjadi perusahaan yang \nterpercaya. Kami memiliki 100 pegawai di tiap daerah dan \ntotal 10.000 pegawai di seluruh indonesia </string>
+    <string name="tentang_perusahaan">PT Sejahtera Aman adalah sebuah perusahaan yang sudah berdiri pada tahun 2016 dan menjadi perusahaan yang terpercaya. Kami memiliki 100 pegawai di tiap daerah dan total 10.000 pegawai di seluruh indonesia </string>
 </resources>
