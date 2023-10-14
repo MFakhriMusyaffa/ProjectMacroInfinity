@@ -43,4 +43,11 @@
     <string name="kota_kerja1">Jakarta Selatan</string>
     <string name="jdl_perusahaan">Tentang Perusahaan</string>
     <string name="tentang_perusahaan">PT Sejahtera Aman adalah sebuah perusahaan yang sudah berdiri pada tahun 2016 dan menjadi perusahaan yang terpercaya. Kami memiliki 100 pegawai di tiap daerah dan total 10.000 pegawai di seluruh indonesia </string>
+    <string name="desc_pelatihan">Dengan diadakannya pelatihan ini membuat orang \nyang ingin mendapatkan
+                    pengetahuan dalam \nmengembangkan website dari nol hingga mengerti.</string>
+    <string name="timeline_pelatihan">Hari : Sabtu, 16 September
+                    \nPukul : 10:00 - Selesai
+                    \nOnline di zoom
+                    \n*Link akan dibagikan lewat email
+                    apabila sudah \nmendaftar</string>
 </resources>
